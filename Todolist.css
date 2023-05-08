@@ -1,0 +1,47 @@
+.img {
+    height: 10rem;
+    width: 20rem;
+    border-radius: 5px;
+    margin-left: 30rem;
+    margin-top: 2rem;
+}
+
+
+.inp {
+    width: 35rem;
+    margin-left: 21rem;
+    border-radius: 5px;
+    border-color: white;
+    outline: none;
+}
+
+
+.btn {
+    width: 5rem;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    opacity: 75%;
+}
+
+.user_ul {
+    width: 37rem; 
+    margin-top: 1rem; 
+    margin-left: 24rem;
+}
+
+.li_del {
+    height: 2.5;
+    margin-top: 1rem;
+    list-style: none;
+    font-size: 16px;
+}
+
+.height_list {
+    height: 2.5rem;
+}
+
+.del_line {
+    text-decoration: line-through;
+}
+
+
